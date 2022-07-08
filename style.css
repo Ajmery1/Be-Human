@@ -6,7 +6,7 @@ body {
 
 #top-banner {
     display: flex;
-    justify-content:center;
+    justify-content: center;
     background-image: url(./images/donation3.jpg);
     background-size: cover;
 
@@ -30,7 +30,7 @@ body {
 .top-banner-text h1 {
     font-weight: 700;
     font-size: 65px;
- 
+
 }
 
 .btn {
@@ -40,7 +40,7 @@ body {
     font-size: 20px;
     padding: 15px 20px;
     border-radius: 5px;
-  
+
 }
 
 #donate-today {
@@ -52,22 +52,23 @@ body {
     margin-left: 160px;
     margin-right: 160px;
     text-align: center;
-    
+
 
 }
+
 .donate-today-head h2 {
     font-size: 42px;
     font-weight: 700;
     color: #000;
 
-    
+
 }
 
 .donate-today-head p {
     font-size: 17px;
     color: #444444;
 
-    
+
 }
 
 .taka-donate {
@@ -90,19 +91,22 @@ body {
 }
 
 .input-money {
-    padding: 7px 200px; 
+    padding: 7px 200px;
     font-size: 20px;
     text-align: center;
     margin-bottom: 45px;
 }
 
 #donate-box {
-    
+
     padding-top: 50px;
 }
-#donate-box h2, p{
+
+#donate-box h2,
+p {
     text-align: center;
 }
+
 #donate-box h2 {
     font-size: 35px;
 }
@@ -122,7 +126,7 @@ body {
     padding-left: 25px;
     padding-right: 25px;
     margin-left: 20px;
-  
+
 
 }
 
@@ -204,6 +208,23 @@ body {
     text-decoration: none;
     font-size: 15px;
     padding: 8px 20px;
+}
+
+.second-section {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%
+}
+
+h2 {
+    color: black;
+    font-size: 30%;
+    margin: 0%;
+}
+
+.second-section img {
+    width: 100%;
 }
 
 #footer {
